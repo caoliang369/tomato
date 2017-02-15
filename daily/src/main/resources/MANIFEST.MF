@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Premain-Class: agent.MyAgent
+Cam-Redefine-Classes: true
+Boot-Class-Path: javassist-3.12.0.SP1.jar
+Main-Class: agent.AgentTestasm
